@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivaylo Savov</h1>
 <h3 align="center">Passionate student looking for a job / internship for a software developer</h3>
 
-- 🔭 I’m currently working on **DevTino**
+- 🔭 I’m currently working on **DevTino** personal project
 
 - 🌱 I’m currently learning **Python, JavaScript, Django and Angular**
 
