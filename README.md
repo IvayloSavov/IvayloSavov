@@ -7,8 +7,6 @@
 
 - 🤝 I’m looking for **Junior or Intern position**
 
-- 💬 Ask me about **Angular**
-
 - 📫 How to reach me **ivaylo.s.savov@gmail.com**
 
 
