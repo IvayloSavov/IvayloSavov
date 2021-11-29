@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **DevTino** personal project
 
-- 🌱 I’m currently learning **Python, JavaScript, Django and Angular**
+- 🌱 I’m currently learning **Python, JavaScript, Angular**
 
 - 🤝 I’m looking for **Junior or Intern position**
 
